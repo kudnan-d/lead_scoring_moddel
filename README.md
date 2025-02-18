@@ -63,7 +63,7 @@ cd Lead-Scoring-Case-Study
 ```
 pip install -r requirements.txt
 ```
-3.Open and run the Jupyter Notebook:
+3. Open and run the Jupyter Notebook:
 ```
 jupyter notebook Lead_Score_Case_Study.ipynb
 ```
