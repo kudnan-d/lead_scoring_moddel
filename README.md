@@ -57,7 +57,7 @@ X Education, an online course provider, struggles with a **low lead conversion r
 ## 🔧 Setup & Installation  
 1. Clone this repository:  
 ```
-git clone https://github.com/your-repo/Lead-Scoring-Case-Study.git
+git clone https://github.com/your-repo/Lead-Scoring-Case-Study.git](https://github.com/kudnan-d/lead_scoring_moddel.git
 cd Lead-Scoring-Case-Study
 ```
 2. Install dependencies:
