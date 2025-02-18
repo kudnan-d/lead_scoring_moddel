@@ -47,7 +47,7 @@ X Education, an online course provider, struggles with a **low lead conversion r
 ---
 
 ## Deliverables  
-**Lead Scoring Model** (Predicts likelihood of conversion).  
+**Lead Scoring Model** 
 **Business Insights & Recommendations PPT**.  
 **Complete Code & Documentation**.  
 
