@@ -43,3 +43,27 @@ X Education, an online course provider, struggles with a **low lead conversion r
 │── 📜 requirements.txt                     # Required Libraries
 │── 📜 README.md                            # Project Overview (You are here)
 ```
+
+---
+
+## Deliverables  
+**Lead Scoring Model** (Predicts likelihood of conversion).  
+**Business Insights & Recommendations PPT**.  
+**Complete Code & Documentation**.  
+
+---
+
+## 🔧 Setup & Installation  
+1. Clone this repository:  
+```
+git clone https://github.com/your-repo/Lead-Scoring-Case-Study.git
+cd Lead-Scoring-Case-Study
+```
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3.Open and run the Jupyter Notebook:
+```
+jupyter notebook Lead_Score_Case_Study.ipynb
+```
