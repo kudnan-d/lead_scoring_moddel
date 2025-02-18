@@ -32,6 +32,7 @@ X Education, an online course provider, struggles with a **low lead conversion r
 ---
 
 ## 📂 Project Structure  
+```
 📁  Lead-Scoring-Case-Study
 │── 📜 Lead_Scoring_Model_LR.ipynb          # Python Notebook (Model & Analysis)
 │── 📜 Assignment Subjective Questions.pdf  # Business Problem Responses
@@ -41,3 +42,4 @@ X Education, an online course provider, struggles with a **low lead conversion r
 │── 📜 Lead Scoring CS Summary.pdf          # Project Summary
 │── 📜 requirements.txt                     # Required Libraries
 │── 📜 README.md                            # Project Overview (You are here)
+```
